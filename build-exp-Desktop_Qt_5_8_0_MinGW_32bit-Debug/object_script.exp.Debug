@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\paintwidget.o
+./debug\shape.o
+./debug\edge.o
+./debug\point.o
+./debug\data.o
+./debug\paintbeautify.o
+./debug\paintbianli.o
+./debug\undiredge.o
+./debug\paintmst.o
+./debug\paintsp.o
+./debug\qrc_point.o
+./debug\moc_mainwindow.o
+./debug\moc_paintwidget.o
+);

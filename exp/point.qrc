@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>icon/Bianli.png</file>
+        <file>icon/Finish.png</file>
+        <file>icon/Point.png</file>
+        <file>icon/SP.png</file>
+        <file>icon/Tree.png</file>
+        <file>icon/Edge.png</file>
+        <file>icon/UndirEdge.png</file>
+        <file>icon/Clear.png</file>
+    </qresource>
+</RCC>

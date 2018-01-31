@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\paintwidget.o
+./release\shape.o
+./release\edge.o
+./release\point.o
+./release\data.o
+./release\paintbeautify.o
+./release\paintbianli.o
+./release\undiredge.o
+./release\paintmst.o
+./release\paintsp.o
+./release\qrc_point.o
+./release\moc_mainwindow.o
+./release\moc_paintwidget.o
+);
